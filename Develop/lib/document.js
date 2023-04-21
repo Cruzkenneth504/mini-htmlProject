@@ -26,3 +26,4 @@ function createDocument(title, tasks = []) {
 }
 
 module.exports = { createDocument };
+

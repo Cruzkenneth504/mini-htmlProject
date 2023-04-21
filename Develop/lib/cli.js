@@ -68,4 +68,10 @@ class CLI {
   }
 }
 
+class Component {
+  constructor()
+
+
+}
+
 module.exports = CLI;
